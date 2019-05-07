@@ -1,7 +1,7 @@
 Jupyter (Python) Notebooks
 =========
 
-Here is compilation of notebooks I used on work, learning, testing ideas or fun.
+Here is compilation of notebooks I used on work, learning, testing ideas or having fun.
 
 ### Geophysics
 
@@ -10,7 +10,9 @@ Here is compilation of notebooks I used on work, learning, testing ideas or fun.
 * [Scalar wave equation in 3D](http://nbviewer.ipython.org/github/eusoubrasileiro/geonumerics/blob/master/ipython_notebooks/Fatiando%20Scalar3.ipynb) simple test for Reynolds 1D absorbing boundaries.
 * [Pos-stack reverse time depth migration](http://nbviewer.ipython.org/github/eusoubrasileiro/geonumerics/blob/master/ipython_notebooks/Fatiando%20RTM%20reverse-scalar-test0.ipynb) for zero-offset sections a simple example
 
-### Hobby Financial Market - Machine Learning 
+### Hobby Financial Market / Machine Learning 
+
+* [Simplest Pytorch example (1 hidden layer NN) learning a logical XOR operator](https://github.com/eusoubrasileiro/notebooks/blob/master/Pytorch%20Learning%20XOR%20Example.ipynb) 
 
 
 
