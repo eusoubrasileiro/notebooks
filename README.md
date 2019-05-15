@@ -1,18 +1,36 @@
 Jupyter (Python) Notebooks
 =========
 
-Here is compilation of notebooks I used on work, learning, testing ideas or having fun.
+Here is compilation of notebooks I used for work, learning, testing ideas or having fun.
 
 ### Geophysics
+#### Numerical Modeling with Finite Differences  
 
-* [Analytic solution for scalar wave equation 2D](http://nbviewer.ipython.org/github/eusoubrasileiro/geonumerics/blob/master/ipython_notebooks/Fatiando%20-%20F.D.%20vs%20Analytic%20Solution.ipynb) based on Alford 1974 Gephy. and testing of explicit finite diferences wave solution 
-* [Reflection Seismic 2D NMO correction](http://nbviewer.ipython.org/github/eusoubrasileiro/geonumerics/blob/master/ipython_notebooks/Nmo%20and%20Rms%20velocity.ipynb) base on Oz Yilmaz in a simple sythentic data example.
-* [Scalar wave equation in 3D](http://nbviewer.ipython.org/github/eusoubrasileiro/geonumerics/blob/master/ipython_notebooks/Fatiando%20Scalar3.ipynb) simple test for Reynolds 1D absorbing boundaries.
-* [Pos-stack reverse time depth migration](http://nbviewer.ipython.org/github/eusoubrasileiro/geonumerics/blob/master/ipython_notebooks/Fatiando%20RTM%20reverse-scalar-test0.ipynb) for zero-offset sections a simple example
+**Cool animations inside :-D**
 
-### Hobby Financial Market / Machine Learning 
+ 1. [Heat Difusion Equation 2D Explicit Finite Differences ](http://nbviewer.jupyter.org/github/eusoubrasileiro/master/blob/master/Heat%20Diffusion%202D.ipynb) toy example
 
-* [Simplest Pytorch example (1 hidden layer NN) learning a logical XOR operator](https://github.com/eusoubrasileiro/notebooks/blob/master/Pytorch%20Learning%20XOR%20Example.ipynb) 
+ 2. [Explicit Finite Differences Scalar Wave Equation with Absorbing Boundaries (4th order space 2nd time)](http://nbviewer.jupyter.org/github/eusoubrasileiro/master/blob/master/Explicit%20Scalar%20Wave%202D.ipynb)
 
+ 3. [Modeling Synthetic Reflection Seismic Survey for Geological Toy Model](http://nbviewer.jupyter.org/github/eusoubrasileiro/master/blob/master/Synthetic_Shots_Simple_Acquisition_Pattern.ipynb)
 
+ 4. [Explicit Finite Differences Reverse Time Migration ](http://nbviewer.jupyter.org/github/eusoubrasileiro/master/blob/master/RTM%20Zero%20Offset.ipynb) for (Pos-stack) Zero-Offset Sections acoustic (4th order space 2nd time) toy example. Forward and reverse modeling is done.
 
+ 5. [Analytic Solution for Scalar Wave Equation 2D](https://nbviewer.jupyter.org/github/eusoubrasileiro/master/blob/master/Explicit%20Scalar%20Wave%202D%20and%20Analytic%20Solution.ipynb) based on Alford 1974 paper for evaluating accuracy of explicit finite diferences wave solution
+
+ 6. [Anisotropic Elastic Wave Equation Staggered Grid 2D](
+https://nbviewer.jupyter.org/github/eusoubrasileiro/master/blob/master/Explicit%20Elastic%20Wave%202D%20-%20Staggered%20Grid.ipynb) Needs a small fix: the last animation is not for pressure field but for particle velocity in x direction.  
+
+Unfortunately some of the code above has not been translated from Portuguese.
+
+### Hobby Financial Market
+
+#### Machine Learning
+
+ 1. [Shortest Pytorch example (1 hidden layer NN) Learning A Logical XOR Operator](https://github.com/eusoubrasileiro/notebooks/blob/master/Pytorch%20Learning%20XOR%20Example.ipynb)
+
+** To Do / To Finish **
+
+-   [ ] New CV and link for download.
+-   [ ] Remove all notebooks from this repo.
+-   [ ] Make public stocks-repo.
