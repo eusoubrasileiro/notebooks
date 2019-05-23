@@ -21,6 +21,8 @@ Here is compilation of notebooks I used for work, learning, testing ideas or hav
  6. [Anisotropic Elastic Wave Equation Staggered Grid 2D](
 https://nbviewer.jupyter.org/github/eusoubrasileiro/master/blob/master/Explicit%20Elastic%20Wave%202D%20-%20Staggered%20Grid.ipynb) Needs a small fix: the last animation is not for pressure field but for particle velocity in x direction.  
 
+More cool geophysics [here](http://numericalearth.blogspot.com.br/).  
+
 Unfortunately some of the code above has not been translated from Portuguese.
 
 ### Hobby Financial Market
@@ -32,5 +34,5 @@ Unfortunately some of the code above has not been translated from Portuguese.
 ** To Do / To Finish **
 
 -   [ ] New CV and link for download.
--   [ ] Remove all notebooks from this repo.
--   [ ] Make public stocks-repo.
+-   [ ] Remove notebooks from this repo tha are from master.
+-   [ ] Make public (bring to here) part of code (many things are too private) and documents  in stocks repo.
