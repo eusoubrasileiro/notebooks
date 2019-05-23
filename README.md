@@ -29,10 +29,10 @@ Unfortunately some of the code above has not been translated from Portuguese.
 
 #### Machine Learning
 
- 1. [Shortest Pytorch example (1 hidden layer NN) Learning A Logical XOR Operator](https://github.com/eusoubrasileiro/notebooks/blob/master/Pytorch%20Learning%20XOR%20Example.ipynb)
+ 1. [Shortest Pytorch example (1 hidden layer NN) Learning A Logical XOR Operator](https://nbviewer.jupyter.org/github/eusoubrasileiro/notebooks/blob/master/general/Pytorch%20Learning%20XOR%20Example.ipynb)
 
 ** To Do / To Finish **
 
 -   [ ] New CV and link for download.
--   [ ] Remove notebooks from this repo tha are from master.
+-   [x] Remove notebooks from this repo tha are from master.
 -   [ ] Make public (bring to here) part of code (many things are too private) and documents  in stocks repo.
